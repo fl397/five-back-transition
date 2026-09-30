@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.parquet
+*.npz
+
+# user-supplied source data and locally rebuilt intermediates (never committed)
+data/external/*
+!data/external/.gitkeep
+data/games/
+data/checks/
+
+# locally generated reports from scripts/run_all.sh
+audit/
+tests/_out/

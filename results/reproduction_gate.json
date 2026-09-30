@@ -1,0 +1,20 @@
+{
+  "fiveback_results.json": {
+    "n_numeric_fields": 140,
+    "max_abs_diff": 0.0,
+    "n_fields_over_1e-6_or_missing": 0,
+    "examples": {}
+  },
+  "nback_validation.json": {
+    "n_numeric_fields": 131,
+    "max_abs_diff": 0.0,
+    "n_fields_over_1e-6_or_missing": 0,
+    "examples": {}
+  },
+  "meta_json_byte_identity": {
+    "n_committed": 631,
+    "n_mismatch": 0,
+    "examples": []
+  },
+  "pass": true
+}

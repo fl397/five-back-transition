@@ -1,0 +1,63 @@
+# FIVE BACK — analysis definitions. Every rule below was fixed before the corresponding N_BACK or shot-outcome number existed.
+study: FIVE_BACK
+alignment:
+  corrected_lead_s: 4.0          # tracking_clock = pbp_clock + 4.0 (constant taken from the companion alignment study; see docs/PROVENANCE.md)
+  naive_lead_s: 0.0
+  no_per_game_lead: true
+  universe: "631 calibratable games (shared table lead_status != NO_TRACKING_MOMENTS); quality labels carried as descriptors only"
+tracking:
+  source: "raw SportVU JSON, frames_from_events dedup (period, game_clock, player_id) keep-first, 25 Hz, court 94 x 50 ft"
+  midcourt_x: 47.0
+possession_intervals:
+  built_from: "PBP directly for all 631 games (previous-terminal-event → own-terminal-event interval rule: possession runs from the start event to the next possession-terminating event); v3/segment tables cover only 449/301 games and are not used"
+  start_types_primary:
+    LIVE_BALL_TURNOVER: "PBP Turnover row whose actionNumber also carries a STEAL row (actionType None, description contains STEAL); the stealing team gains possession at the turnover clock"
+    DEFENSIVE_REBOUND: "PBP Rebound row with personId > 0 (player rebound) whose immediately preceding shot row is a Missed Shot (FGA) by the other team; team rebounds (personId 0) and missed-free-throw rebounds are excluded and counted"
+  start_types_excluded: [made-basket inbound, timeout restart, dead-ball turnover, period start, free-throw-miss rebound, team rebound]
+  secondary_starts: "none specified (no secondary start analysis)"
+shots:
+  primary: "first FGA (isFieldGoal == 1, shotValue in {2,3}, personId > 0) by the team that gained possession, in the same period, with NO intervening PBP row of any type between the start row (and its paired STEAL row) and the FGA row; any foul, timeout, substitution, violation, turnover, jump ball, free throw or opponent event ends eligibility"
+  time_into_possession_s: "start_clock_pbp - shot_clock_pbp (PBP axis; invariant to a constant lead)"
+  max_time_into_possession_s: 24.0   # beyond the shot clock -> excluded and counted
+  pre_shot_instant: "1.0 s before the shot on the tracking axis: target clock = c + lead + 1.0; nearest frame within +/-0.06 s, else +/-0.20 s, else missing"
+  rim_attempt: "shotDistance <= 4 ft (PBP shotDistance, integer feet; restricted-area class)"
+direction:
+  rule: "per game x period x team empirical basket side: ball x at the frame nearest (c + 4.0) for each MADE FG of that team in that period; side R if majority x > 47, L if majority x < 47; periods 1-2 pooled, periods >= 3 = opposite of periods 1-2 (half-time switch; OT follows the second half); per-period majorities are audited against the pooled rule"
+  checks: ["agreement with the independently derived basket-side table data/reference/court_direction_reference.json on the 449 overlapping games (deterministic)", "per-period majority agreement rate", "fraction of made-FG ball positions within 10 ft of the inferred basket"]
+n_back:
+  definition: "at frame t, number of the 5 defending-team players (team != shooting team; exactly 5 required) with x strictly inside their own defensive half = the half containing the basket the offense attacks (x > 47 if the offense attacks R, x < 47 if L)"
+  five_back: "1[N_BACK == 5]"
+construct_validation:   # read BEFORE any shot outcome; thresholds fixed here
+  window_s: "8.0 s after possession start on the corrected axis (start tracking clock = c0 + 4.0), sampled every frame"
+  report: ["distribution of N_BACK at start", "median time to N_BACK == 5", "P(5 back by 2/4/6/8 s)", "monotonicity violations (N_BACK falls below 5 after first reaching 5 within the window)", "direction consistency"]
+  stop_if: "direction agreement with the court-direction reference table < 0.90 OR per-period majority agreement < 0.90 OR N_BACK never reaches 5 within 8 s in > 15 % of possessions that last >= 8 s OR monotonicity-violation rate > 25 %"
+outcomes:
+  primary: RIM_ATTEMPT
+  secondary: [SHOT_DISTANCE_FT, THREE_PA, MADE_FG, EFG]
+covariates:
+  time_flex: "restricted cubic spline of time_into_possession with knots at empirical p10/p50/p90 fixed at dataset build (corrected dataset), plus linear term"
+  time_bands_descriptive: ["0-2", "2-4", "4-6", "6-8", "8-12", "12-24"]
+  start_type: "indicator (LIVE_BALL_TURNOVER vs DEFENSIVE_REBOUND)"
+  period: "dummies (OT pooled with 4)"
+  score_margin: "shooting team minus opponent before the shot (running score forward-filled, made-shot points removed, SP-A04 convention) linear + absolute"
+  excluded_from_primary_rim_model: ["2PA/3PA indicator", "nearest-defender distance"]
+models:
+  estimator: "linear probability model (OLS), SE cluster-robust by game, two-sided alpha 0.05"
+  T_total: "RIM ~ FIVE_BACK + time_flex + start_type + period + margin + |margin|"
+  D_direct: "T_total + nearest-defender distance at the pre-shot instant (linear + 1[<= 4 ft])"
+  B7_clock_vs_fifth: ["time_flex only", "FIVE_BACK only", "time_flex + FIVE_BACK"]
+  B7_notes: "each with start_type + period + margin; report FIVE_BACK and the early-possession contrast (predicted RIM at 2 s minus at 10 s from the spline) coefficients, R^2, and 5-fold game-grouped CV log-loss of logistic versions of the same specs (seed 20260920)"
+  B8_dose: "N_BACK categories {<=2, 3, 4, 5}; pool 0/1/2 if any of those cells has < 200 shots; reference = 5"
+naive_vs_corrected_b9:
+  rule: "identical pipeline at lead 0.0 and lead 4.0 (same possessions, same shots; only the pre-shot frame and thus N_BACK / defender distance change)"
+  classification: "REVEALED_BY_CORRECTION if the corrected FIVE_BACK total association is substantive (per the decision-rule thresholds below) and the naive one is not, or naive is materially distorted (opposite sign or < half magnitude); STABLE_TO_ALIGNMENT if both substantive and similar (within 50 %); DESTROYED_BY_CORRECTION if only naive substantive; NO_FIVE_BACK_SIGNAL if neither"
+decision_rule_b10:
+  strong_requires:
+    - "construct validation PASS"
+    - "T_total: FIVE_BACK coefficient on RIM_ATTEMPT <= -5 pp (fewer rim attempts when five are back) with 95 % CI excluding 0"
+    - "persists with time controls (coefficient in the combined model still <= -5 pp, CI excl. 0)"
+    - "adding FIVE_BACK attenuates the early-possession contrast (2 s vs 10 s) by >= 25 % OR improves 5-fold CV log-loss by >= 0.002 nats"
+    - "holds within each start type (both coefficients same sign, CI excl. 0)"
+    - "corrected association not weaker than naive (|beta_corrected| >= |beta_naive|)"
+  else: FIVE_BACK_STOP
+prohibited: [defender assignment, recovery geometry, new transition labels, alternate court thresholds, lead tuning, calibration comparison, causal wording]

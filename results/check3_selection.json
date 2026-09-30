@@ -1,0 +1,181 @@
+{
+  "taxonomy": [
+    {
+      "category": "FIRST_FGA_OBSERVED",
+      "n": 32823,
+      "pct": 68.2632115300626
+    },
+    {
+      "category": "NONSHOOTING_FOUL_OR_DEAD_BALL_BEFORE_FGA",
+      "n": 5571,
+      "pct": 11.586215502360501
+    },
+    {
+      "category": "TURNOVER_BEFORE_FGA",
+      "n": 5160,
+      "pct": 10.731443545535845
+    },
+    {
+      "category": "SHOOTING_FOUL_OR_FREE_THROWS_BEFORE_FGA",
+      "n": 3481,
+      "pct": 7.2395649189942395
+    },
+    {
+      "category": "POSSESSION_END_OR_CONTROL_CHANGE_WITHOUT_FGA",
+      "n": 801,
+      "pct": 1.6658694341035294
+    },
+    {
+      "category": "OTHER_RESOLVED",
+      "n": 212,
+      "pct": 0.4409042697003099
+    },
+    {
+      "category": "UNRESOLVED",
+      "n": 22,
+      "pct": 0.04575421666701329
+    },
+    {
+      "category": "TRACKING_OR_LINKAGE_MISSING",
+      "n": 13,
+      "pct": 0.0270365825759624
+    }
+  ],
+  "selection": {
+    "n_starts_universe": 48083,
+    "n_alive_at_6s": 35614,
+    "n_alive_with_nback6": 34693,
+    "n_back_6s_dist": {
+      "0.0": 0.0091,
+      "1.0": 0.0201,
+      "2.0": 0.0573,
+      "3.0": 0.1145,
+      "4.0": 0.2175,
+      "5.0": 0.5815
+    },
+    "overall": {
+      "n0": 14520,
+      "n1": 20173,
+      "p_enter_five_back_0": 0.7577823691460055,
+      "p_enter_five_back_1": 0.7807961136172111,
+      "diff_pp": 2.3013744471205198,
+      "diff_ci95_pp": [
+        1.397044315795955,
+        3.2057045784450846
+      ]
+    },
+    "by_start_type": {
+      "DEFENSIVE_REBOUND": {
+        "n0": 10757,
+        "n1": 18798,
+        "p_enter_five_back_0": 0.7423073347587618,
+        "p_enter_five_back_1": 0.7800297904032344,
+        "diff_pp": 3.772245564447232,
+        "diff_ci95_pp": [
+          2.754243000878979,
+          4.7902481280154845
+        ]
+      },
+      "LIVE_BALL_TURNOVER": {
+        "n0": 3763,
+        "n1": 1375,
+        "p_enter_five_back_0": 0.8020196651607759,
+        "p_enter_five_back_1": 0.7912727272727272,
+        "diff_pp": -1.0746937888048858,
+        "diff_ci95_pp": [
+          -3.6292906160967626,
+          1.4799030384869911
+        ]
+      }
+    },
+    "by_period": {
+      "P1-2": {
+        "n0": 6912,
+        "n1": 11127,
+        "p_enter_five_back_0": 0.7787905092592593,
+        "p_enter_five_back_1": 0.7899703424103532,
+        "diff_pp": 1.1179833151093939,
+        "diff_ci95_pp": [
+          -0.09595388128195836,
+          2.331920511500746
+        ]
+      },
+      "P3+": {
+        "n0": 7608,
+        "n1": 9046,
+        "p_enter_five_back_0": 0.7386961093585699,
+        "p_enter_five_back_1": 0.7695113862480655,
+        "diff_pp": 3.0815276889495444,
+        "diff_ci95_pp": [
+          1.7858931149652844,
+          4.377162262933805
+        ]
+      }
+    },
+    "category_by_five6": {
+      "FIRST_FGA_OBSERVED": {
+        "0.0": 0.7578,
+        "1.0": 0.7808
+      },
+      "NONSHOOTING_FOUL_OR_DEAD_BALL_BEFORE_FGA": {
+        "0.0": 0.0719,
+        "1.0": 0.0622
+      },
+      "OTHER_RESOLVED": {
+        "0.0": 0.0077,
+        "1.0": 0.0033
+      },
+      "POSSESSION_END_OR_CONTROL_CHANGE_WITHOUT_FGA": {
+        "0.0": 0.014,
+        "1.0": 0.0025
+      },
+      "SHOOTING_FOUL_OR_FREE_THROWS_BEFORE_FGA": {
+        "0.0": 0.0579,
+        "1.0": 0.0555
+      },
+      "TURNOVER_BEFORE_FGA": {
+        "0.0": 0.0905,
+        "1.0": 0.0955
+      },
+      "UNRESOLVED": {
+        "0.0": 0.0003,
+        "1.0": 0.0002
+      }
+    },
+    "by_margin_band": {
+      "leading>=6": {
+        "n0": 935,
+        "n1": 914,
+        "p_enter_five_back_0": 0.7176470588235294,
+        "p_enter_five_back_1": 0.7669584245076586,
+        "diff_pp": 4.931136568412959,
+        "diff_ci95_pp": [
+          1.2163153469719357,
+          8.645957789853982
+        ]
+      },
+      "trailing<=-6": {
+        "n0": 770,
+        "n1": 895,
+        "p_enter_five_back_0": 0.7454545454545455,
+        "p_enter_five_back_1": 0.7430167597765364,
+        "diff_pp": -0.24377856780089685,
+        "diff_ci95_pp": [
+          -4.3284038250318,
+          3.840846689430007
+        ]
+      },
+      "within5": {
+        "n0": 12815,
+        "n1": 18364,
+        "p_enter_five_back_0": 0.7614514241123683,
+        "p_enter_five_back_1": 0.7833260727510346,
+        "diff_pp": 2.187464863866647,
+        "diff_ci95_pp": [
+          1.2274960341102303,
+          3.1474336936230642
+        ]
+      }
+    }
+  }
+}

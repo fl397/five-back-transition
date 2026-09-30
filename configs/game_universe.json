@@ -1,0 +1,3165 @@
+{
+"note": "631 calibratable 2015-16 games of the public SportVU mirror (linouk23 file stem <-> NBA game id) with the alignment quality label; leads are NOT used by this study (constant +4.0 s).",
+"games": [
+{
+"game_id": "0021500001",
+"stem": "10.27.2015.DET.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500002",
+"stem": "10.27.2015.CLE.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500003",
+"stem": "10.27.2015.NOP.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500004",
+"stem": "10.28.2015.WAS.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500005",
+"stem": "10.28.2015.PHI.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500007",
+"stem": "10.28.2015.UTA.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500009",
+"stem": "10.28.2015.IND.at.TOR",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500010",
+"stem": "10.28.2015.DEN.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500011",
+"stem": "10.28.2015.CLE.at.MEM",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500012",
+"stem": "10.28.2015.NYK.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500013",
+"stem": "10.28.2015.SAS.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500015",
+"stem": "10.28.2015.NOP.at.POR",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500016",
+"stem": "10.28.2015.LAC.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500017",
+"stem": "10.28.2015.MIN.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500018",
+"stem": "10.29.2015.MEM.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500019",
+"stem": "10.29.2015.ATL.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500020",
+"stem": "10.29.2015.DAL.at.LAC",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500021",
+"stem": "10.30.2015.MIA.at.CLE",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500022",
+"stem": "10.30.2015.OKC.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500023",
+"stem": "10.30.2015.UTA.at.PHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500024",
+"stem": "10.30.2015.TOR.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500025",
+"stem": "10.30.2015.CHI.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500026",
+"stem": "10.30.2015.CHA.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500027",
+"stem": "10.30.2015.WAS.at.MIL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500028",
+"stem": "10.30.2015.BKN.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500029",
+"stem": "10.30.2015.MIN.at.DEN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500031",
+"stem": "10.30.2015.LAL.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500032",
+"stem": "10.30.2015.POR.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500033",
+"stem": "10.31.2015.UTA.at.IND",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500034",
+"stem": "10.31.2015.NYK.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500035",
+"stem": "10.31.2015.GSW.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500036",
+"stem": "10.31.2015.BKN.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500037",
+"stem": "10.31.2015.PHX.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500038",
+"stem": "10.31.2015.SAC.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500039",
+"stem": "11.01.2015.ATL.at.CHA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500040",
+"stem": "11.01.2015.SAS.at.BOS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500041",
+"stem": "11.01.2015.HOU.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500042",
+"stem": "11.01.2015.MIL.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500043",
+"stem": "11.01.2015.ORL.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500044",
+"stem": "11.01.2015.DEN.at.OKC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500045",
+"stem": "11.01.2015.DAL.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500046",
+"stem": "11.02.2015.CLE.at.PHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500047",
+"stem": "11.02.2015.MIL.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500048",
+"stem": "11.02.2015.SAS.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500049",
+"stem": "11.02.2015.OKC.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500050",
+"stem": "11.02.2015.POR.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500051",
+"stem": "11.02.2015.MEM.at.GSW",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500052",
+"stem": "11.02.2015.PHX.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500053",
+"stem": "11.03.2015.CHI.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500054",
+"stem": "11.03.2015.IND.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500055",
+"stem": "11.03.2015.ATL.at.MIA",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500056",
+"stem": "11.03.2015.ORL.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500057",
+"stem": "11.03.2015.TOR.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500058",
+"stem": "11.03.2015.MEM.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500059",
+"stem": "11.03.2015.DEN.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500060",
+"stem": "11.04.2015.BOS.at.IND",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500061",
+"stem": "11.04.2015.SAS.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500062",
+"stem": "11.04.2015.BKN.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500063",
+"stem": "11.04.2015.NYK.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500064",
+"stem": "11.04.2015.ORL.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500065",
+"stem": "11.04.2015.PHI.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500066",
+"stem": "11.04.2015.TOR.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500067",
+"stem": "11.04.2015.SAC.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500068",
+"stem": "11.04.2015.POR.at.UTA",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500069",
+"stem": "11.04.2015.LAC.at.GSW",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500070",
+"stem": "11.05.2015.OKC.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500071",
+"stem": "11.05.2015.MIA.at.MIN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500072",
+"stem": "11.05.2015.CHA.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500073",
+"stem": "11.05.2015.UTA.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500074",
+"stem": "11.05.2015.MEM.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500075",
+"stem": "11.06.2015.TOR.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500076",
+"stem": "11.06.2015.WAS.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500077",
+"stem": "11.06.2015.LAL.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500078",
+"stem": "11.06.2015.PHI.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500079",
+"stem": "11.06.2015.MIL.at.NYK",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500080",
+"stem": "11.06.2015.MIA.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500081",
+"stem": "11.06.2015.ATL.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500082",
+"stem": "11.06.2015.DET.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500083",
+"stem": "11.06.2015.DEN.at.GSW",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500084",
+"stem": "11.06.2015.HOU.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500085",
+"stem": "11.07.2015.MIN.at.CHI",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500086",
+"stem": "11.07.2015.WAS.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500087",
+"stem": "11.07.2015.ORL.at.PHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500088",
+"stem": "11.07.2015.NOP.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500089",
+"stem": "11.07.2015.BKN.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500090",
+"stem": "11.07.2015.CHA.at.SAS",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500091",
+"stem": "11.07.2015.MEM.at.UTA",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500092",
+"stem": "11.07.2015.GSW.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500093",
+"stem": "11.07.2015.HOU.at.LAC",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500094",
+"stem": "11.08.2015.IND.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500095",
+"stem": "11.08.2015.LAL.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500096",
+"stem": "11.08.2015.TOR.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500097",
+"stem": "11.08.2015.PHX.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500098",
+"stem": "11.08.2015.DET.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500099",
+"stem": "11.09.2015.ORL.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500101",
+"stem": "11.09.2015.MIN.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500102",
+"stem": "11.09.2015.POR.at.DEN",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500103",
+"stem": "11.09.2015.SAS.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500104",
+"stem": "11.09.2015.DET.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500105",
+"stem": "11.09.2015.MEM.at.LAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500106",
+"stem": "11.10.2015.UTA.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500107",
+"stem": "11.10.2015.OKC.at.WAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500108",
+"stem": "11.10.2015.LAL.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500109",
+"stem": "11.10.2015.NYK.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500110",
+"stem": "11.10.2015.BOS.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500111",
+"stem": "11.10.2015.CHA.at.MIN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500112",
+"stem": "11.10.2015.DAL.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500113",
+"stem": "11.11.2015.NYK.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500114",
+"stem": "11.11.2015.LAL.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500115",
+"stem": "11.11.2015.TOR.at.PHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500116",
+"stem": "11.11.2015.IND.at.BOS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500117",
+"stem": "11.11.2015.NOP.at.ATL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500118",
+"stem": "11.11.2015.LAC.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500119",
+"stem": "11.11.2015.BKN.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500120",
+"stem": "11.11.2015.GSW.at.MEM",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500121",
+"stem": "11.11.2015.MIL.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500122",
+"stem": "11.11.2015.DET.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500123",
+"stem": "11.11.2015.SAS.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500124",
+"stem": "11.12.2015.UTA.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500125",
+"stem": "11.12.2015.GSW.at.MIN",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500126",
+"stem": "11.12.2015.LAC.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500127",
+"stem": "11.13.2015.MIN.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500128",
+"stem": "11.13.2015.UTA.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500129",
+"stem": "11.13.2015.ATL.at.BOS",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500130",
+"stem": "11.13.2015.CLE.at.NYK",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500131",
+"stem": "11.13.2015.NOP.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500132",
+"stem": "11.13.2015.CHA.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500133",
+"stem": "11.13.2015.POR.at.MEM",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500134",
+"stem": "11.13.2015.PHI.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500135",
+"stem": "11.13.2015.LAL.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500136",
+"stem": "11.13.2015.HOU.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500137",
+"stem": "11.13.2015.BKN.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500138",
+"stem": "11.14.2015.DET.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500139",
+"stem": "11.14.2015.ORL.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500140",
+"stem": "11.14.2015.DAL.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500141",
+"stem": "11.14.2015.CLE.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500142",
+"stem": "11.14.2015.PHI.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500143",
+"stem": "11.14.2015.DEN.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500144",
+"stem": "11.14.2015.BKN.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500145",
+"stem": "11.15.2015.NOP.at.NYK",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500146",
+"stem": "11.15.2015.MEM.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500147",
+"stem": "11.15.2015.POR.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500148",
+"stem": "11.15.2015.UTA.at.ATL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500149",
+"stem": "11.15.2015.BOS.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500150",
+"stem": "11.15.2015.TOR.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500151",
+"stem": "11.15.2015.DET.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500152",
+"stem": "11.16.2015.DAL.at.PHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500153",
+"stem": "11.16.2015.IND.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500154",
+"stem": "11.16.2015.BOS.at.HOU",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500155",
+"stem": "11.16.2015.OKC.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500156",
+"stem": "11.16.2015.POR.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500157",
+"stem": "11.16.2015.LAL.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500158",
+"stem": "11.17.2015.MIL.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500159",
+"stem": "11.17.2015.ATL.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500160",
+"stem": "11.17.2015.CLE.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500161",
+"stem": "11.17.2015.MIN.at.MIA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500162",
+"stem": "11.17.2015.CHA.at.NYK",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500163",
+"stem": "11.17.2015.DEN.at.NOP",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500164",
+"stem": "11.17.2015.TOR.at.GSW",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500165",
+"stem": "11.18.2015.BKN.at.CHA",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500166",
+"stem": "11.18.2015.MIN.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500167",
+"stem": "11.18.2015.IND.at.PHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500168",
+"stem": "11.18.2015.DAL.at.BOS",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500169",
+"stem": "11.18.2015.SAC.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500170",
+"stem": "11.18.2015.POR.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500171",
+"stem": "11.18.2015.NOP.at.OKC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500172",
+"stem": "11.18.2015.DEN.at.SAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500173",
+"stem": "11.18.2015.TOR.at.UTA",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500174",
+"stem": "11.18.2015.CHI.at.PHX",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500175",
+"stem": "11.19.2015.SAC.at.MIA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500176",
+"stem": "11.19.2015.MIL.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500177",
+"stem": "11.19.2015.GSW.at.LAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500178",
+"stem": "11.20.2015.PHI.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500179",
+"stem": "11.20.2015.BKN.at.BOS",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500180",
+"stem": "11.20.2015.HOU.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500181",
+"stem": "11.20.2015.DET.at.MIN",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500182",
+"stem": "11.20.2015.SAS.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500183",
+"stem": "11.20.2015.NYK.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500184",
+"stem": "11.20.2015.UTA.at.DAL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500185",
+"stem": "11.20.2015.PHX.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500186",
+"stem": "11.20.2015.LAC.at.POR",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500187",
+"stem": "11.20.2015.CHI.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500188",
+"stem": "11.20.2015.TOR.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500189",
+"stem": "11.21.2015.SAC.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500190",
+"stem": "11.21.2015.MIL.at.IND",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500191",
+"stem": "11.21.2015.ATL.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500192",
+"stem": "11.21.2015.WAS.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500193",
+"stem": "11.21.2015.PHI.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500194",
+"stem": "11.21.2015.NYK.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500195",
+"stem": "11.21.2015.MEM.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500196",
+"stem": "11.22.2015.TOR.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500197",
+"stem": "11.22.2015.BOS.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500198",
+"stem": "11.22.2015.PHX.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500199",
+"stem": "11.22.2015.DAL.at.OKC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500200",
+"stem": "11.22.2015.GSW.at.DEN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500201",
+"stem": "11.22.2015.POR.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500202",
+"stem": "11.23.2015.SAC.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500203",
+"stem": "11.23.2015.ORL.at.CLE",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500204",
+"stem": "11.23.2015.NYK.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500205",
+"stem": "11.23.2015.DET.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500206",
+"stem": "11.23.2015.PHI.at.MIN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500207",
+"stem": "11.23.2015.PHX.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500208",
+"stem": "11.23.2015.OKC.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500209",
+"stem": "11.24.2015.IND.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500210",
+"stem": "11.24.2015.BOS.at.ATL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500211",
+"stem": "11.24.2015.DAL.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500212",
+"stem": "11.24.2015.LAC.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500213",
+"stem": "11.24.2015.CHI.at.POR",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500214",
+"stem": "11.24.2015.LAL.at.GSW",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500215",
+"stem": "11.25.2015.WAS.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500216",
+"stem": "11.25.2015.NYK.at.ORL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500217",
+"stem": "11.25.2015.PHI.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500218",
+"stem": "11.25.2015.MIA.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500219",
+"stem": "11.25.2015.CLE.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500220",
+"stem": "11.25.2015.MEM.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500221",
+"stem": "11.25.2015.SAC.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500222",
+"stem": "11.25.2015.ATL.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500223",
+"stem": "11.25.2015.BKN.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500224",
+"stem": "11.25.2015.DAL.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500225",
+"stem": "11.25.2015.NOP.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500226",
+"stem": "11.25.2015.UTA.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500227",
+"stem": "11.27.2015.CLE.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500228",
+"stem": "11.27.2015.MIL.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500229",
+"stem": "11.27.2015.WAS.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500230",
+"stem": "11.27.2015.MIA.at.NYK",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500231",
+"stem": "11.27.2015.CHI.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500232",
+"stem": "11.27.2015.PHI.at.HOU",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500233",
+"stem": "11.27.2015.ATL.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500234",
+"stem": "11.27.2015.DET.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500235",
+"stem": "11.27.2015.SAS.at.DEN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500236",
+"stem": "11.27.2015.GSW.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500237",
+"stem": "11.27.2015.MIN.at.SAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500239",
+"stem": "11.28.2015.TOR.at.WAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500241",
+"stem": "11.28.2015.DEN.at.DAL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500242",
+"stem": "11.28.2015.ATL.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500243",
+"stem": "11.28.2015.NOP.at.UTA",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500244",
+"stem": "11.28.2015.LAL.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500245",
+"stem": "11.28.2015.SAC.at.GSW",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500246",
+"stem": "11.29.2015.MIL.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500247",
+"stem": "11.29.2015.MIN.at.LAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500248",
+"stem": "11.29.2015.DET.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500249",
+"stem": "11.29.2015.BOS.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500250",
+"stem": "11.29.2015.PHX.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500251",
+"stem": "11.29.2015.PHI.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500252",
+"stem": "11.29.2015.HOU.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500253",
+"stem": "11.29.2015.IND.at.LAL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500254",
+"stem": "11.30.2015.HOU.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500255",
+"stem": "11.30.2015.BOS.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500256",
+"stem": "11.30.2015.OKC.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500257",
+"stem": "11.30.2015.SAS.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500258",
+"stem": "11.30.2015.DEN.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500259",
+"stem": "11.30.2015.GSW.at.UTA",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500260",
+"stem": "11.30.2015.DAL.at.SAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500261",
+"stem": "11.30.2015.POR.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500262",
+"stem": "12.01.2015.WAS.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500263",
+"stem": "12.01.2015.LAL.at.PHI",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500264",
+"stem": "12.01.2015.PHX.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500265",
+"stem": "12.01.2015.ORL.at.MIN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500266",
+"stem": "12.01.2015.MEM.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500267",
+"stem": "12.01.2015.DAL.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500268",
+"stem": "12.02.2015.GSW.at.CHA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500269",
+"stem": "12.02.2015.LAL.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500270",
+"stem": "12.02.2015.PHX.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500271",
+"stem": "12.02.2015.PHI.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500272",
+"stem": "12.02.2015.TOR.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500273",
+"stem": "12.02.2015.DEN.at.CHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500274",
+"stem": "12.02.2015.NOP.at.HOU",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500275",
+"stem": "12.02.2015.MIL.at.SAS",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500277",
+"stem": "12.03.2015.OKC.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500278",
+"stem": "12.03.2015.DEN.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500279",
+"stem": "12.03.2015.ORL.at.UTA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500280",
+"stem": "12.03.2015.SAS.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500281",
+"stem": "12.03.2015.IND.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500283",
+"stem": "12.04.2015.BKN.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500284",
+"stem": "12.04.2015.PHX.at.WAS",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500285",
+"stem": "12.04.2015.MIL.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500286",
+"stem": "12.04.2015.LAL.at.ATL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500287",
+"stem": "12.04.2015.HOU.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500288",
+"stem": "12.04.2015.CLE.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500289",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.DEN.at.PHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500290",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.GSW.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500291",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.CLE.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500292",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.CHA.at.CHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500293",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.SAC.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500294",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.POR.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500295",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.NYK.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500296",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.BOS.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500297",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.IND.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500298",
+"stem": "2016.NBA.Raw.SportVU.Game.Logs12.05.2015.ORL.at.LAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500299",
+"stem": "12.06.2015.PHX.at.MEM",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500300",
+"stem": "12.06.2015.GSW.at.BKN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500301",
+"stem": "12.06.2015.LAL.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500302",
+"stem": "12.06.2015.DAL.at.WAS",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500303",
+"stem": "12.06.2015.SAC.at.OKC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500304",
+"stem": "12.07.2015.DET.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500305",
+"stem": "12.07.2015.SAS.at.PHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500306",
+"stem": "12.07.2015.WAS.at.MIA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500307",
+"stem": "12.07.2015.DAL.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500308",
+"stem": "12.07.2015.LAL.at.TOR",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500309",
+"stem": "12.07.2015.PHX.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500310",
+"stem": "12.07.2015.POR.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500311",
+"stem": "12.07.2015.LAC.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500312",
+"stem": "12.07.2015.BOS.at.NOP",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500313",
+"stem": "12.08.2015.POR.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500314",
+"stem": "12.08.2015.GSW.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500315",
+"stem": "12.08.2015.HOU.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500316",
+"stem": "12.08.2015.OKC.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500317",
+"stem": "12.08.2015.ORL.at.DEN",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500318",
+"stem": "12.08.2015.UTA.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500319",
+"stem": "12.09.2015.CHI.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500320",
+"stem": "12.09.2015.MIA.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500321",
+"stem": "12.09.2015.HOU.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500322",
+"stem": "12.09.2015.MEM.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500323",
+"stem": "12.09.2015.SAS.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500324",
+"stem": "12.09.2015.LAC.at.MIL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500325",
+"stem": "12.09.2015.LAL.at.MIN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500326",
+"stem": "12.09.2015.ORL.at.PHX",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500327",
+"stem": "12.09.2015.NYK.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500328",
+"stem": "12.09.2015.ATL.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500329",
+"stem": "12.10.2015.PHI.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500330",
+"stem": "12.10.2015.LAC.at.CHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500331",
+"stem": "12.10.2015.ATL.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500332",
+"stem": "12.10.2015.NYK.at.SAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500333",
+"stem": "12.11.2015.MIA.at.IND",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500334",
+"stem": "12.11.2015.CLE.at.ORL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500335",
+"stem": "12.11.2015.DET.at.PHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500336",
+"stem": "12.11.2015.GSW.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500337",
+"stem": "12.11.2015.MIL.at.TOR",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500338",
+"stem": "12.11.2015.CHA.at.MEM",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500339",
+"stem": "12.11.2015.WAS.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500340",
+"stem": "12.11.2015.MIN.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500341",
+"stem": "12.11.2015.OKC.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500342",
+"stem": "12.11.2015.LAL.at.SAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500343",
+"stem": "12.11.2015.POR.at.PHX",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500344",
+"stem": "12.12.2015.LAC.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500345",
+"stem": "12.12.2015.BOS.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500346",
+"stem": "12.12.2015.IND.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500347",
+"stem": "12.12.2015.SAS.at.ATL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500348",
+"stem": "12.12.2015.NOP.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500349",
+"stem": "12.12.2015.LAL.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500350",
+"stem": "12.12.2015.WAS.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500351",
+"stem": "12.12.2015.GSW.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500352",
+"stem": "12.12.2015.NYK.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500353",
+"stem": "12.13.2015.MIN.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500354",
+"stem": "12.13.2015.MEM.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500355",
+"stem": "12.13.2015.PHI.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500356",
+"stem": "12.13.2015.UTA.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500357",
+"stem": "12.14.2015.TOR.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500358",
+"stem": "12.14.2015.ORL.at.BKN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500359",
+"stem": "12.14.2015.LAC.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500360",
+"stem": "12.14.2015.MIA.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500361",
+"stem": "12.14.2015.PHI.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500362",
+"stem": "12.14.2015.WAS.at.MEM",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500363",
+"stem": "12.14.2015.PHX.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500364",
+"stem": "12.14.2015.UTA.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500365",
+"stem": "12.14.2015.HOU.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500366",
+"stem": "12.14.2015.NOP.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500367",
+"stem": "12.15.2015.CLE.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500368",
+"stem": "12.15.2015.DEN.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500369",
+"stem": "12.15.2015.HOU.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500370",
+"stem": "12.15.2015.MIL.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500371",
+"stem": "12.16.2015.DAL.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500372",
+"stem": "12.16.2015.CHA.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500373",
+"stem": "12.16.2015.MIA.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500374",
+"stem": "12.16.2015.BOS.at.DET",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500375",
+"stem": "12.16.2015.MIN.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500376",
+"stem": "12.16.2015.PHI.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500377",
+"stem": "12.16.2015.MEM.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500378",
+"stem": "12.16.2015.POR.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500379",
+"stem": "12.16.2015.WAS.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500380",
+"stem": "12.16.2015.NOP.at.UTA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500381",
+"stem": "12.16.2015.PHX.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500382",
+"stem": "12.16.2015.MIL.at.LAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500383",
+"stem": "12.17.2015.TOR.at.CHA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500384",
+"stem": "12.17.2015.OKC.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500385",
+"stem": "12.17.2015.HOU.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500386",
+"stem": "12.18.2015.BKN.at.IND",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500387",
+"stem": "12.18.2015.POR.at.ORL",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500388",
+"stem": "12.18.2015.NYK.at.PHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500389",
+"stem": "12.18.2015.ATL.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500390",
+"stem": "12.18.2015.TOR.at.MIA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500391",
+"stem": "12.18.2015.DET.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500392",
+"stem": "12.18.2015.SAC.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500393",
+"stem": "12.18.2015.LAC.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500394",
+"stem": "12.18.2015.MEM.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500395",
+"stem": "12.18.2015.DEN.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500396",
+"stem": "12.18.2015.NOP.at.PHX",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500397",
+"stem": "12.18.2015.MIL.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500398",
+"stem": "12.19.2015.LAL.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500399",
+"stem": "12.19.2015.CHA.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500400",
+"stem": "12.19.2015.CHI.at.NYK",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500401",
+"stem": "12.19.2015.LAC.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500402",
+"stem": "12.19.2015.IND.at.MEM",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500403",
+"stem": "12.20.2015.MIN.at.BKN",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500404",
+"stem": "12.20.2015.POR.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500405",
+"stem": "12.20.2015.PHI.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500406",
+"stem": "12.20.2015.MIL.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500407",
+"stem": "12.20.2015.ATL.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500408",
+"stem": "12.20.2015.SAC.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500409",
+"stem": "12.20.2015.NOP.at.DEN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500410",
+"stem": "12.21.2015.SAC.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500411",
+"stem": "12.21.2015.MIN.at.BOS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500412",
+"stem": "12.21.2015.ORL.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500413",
+"stem": "12.21.2015.POR.at.ATL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500414",
+"stem": "12.21.2015.BKN.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500415",
+"stem": "12.21.2015.CHA.at.HOU",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500416",
+"stem": "12.21.2015.IND.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500417",
+"stem": "12.21.2015.PHX.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500418",
+"stem": "12.21.2015.OKC.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500419",
+"stem": "12.22.2015.MEM.at.PHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500420",
+"stem": "12.22.2015.DET.at.MIA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500421",
+"stem": "12.22.2015.DAL.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500422",
+"stem": "12.22.2015.LAL.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500423",
+"stem": "12.23.2015.BOS.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500424",
+"stem": "12.23.2015.NYK.at.CLE",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500425",
+"stem": "12.23.2015.SAC.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500426",
+"stem": "12.23.2015.HOU.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500427",
+"stem": "12.23.2015.MEM.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500428",
+"stem": "12.23.2015.DAL.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500429",
+"stem": "12.23.2015.DET.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500430",
+"stem": "12.23.2015.PHI.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500431",
+"stem": "12.23.2015.SAS.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500432",
+"stem": "12.23.2015.POR.at.NOP",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500433",
+"stem": "12.23.2015.DEN.at.PHX",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500434",
+"stem": "12.23.2015.UTA.at.GSW",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500435",
+"stem": "12.23.2015.OKC.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500436",
+"stem": "12.25.2015.NOP.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500437",
+"stem": "12.25.2015.CHI.at.OKC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500438",
+"stem": "12.25.2015.CLE.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500439",
+"stem": "12.25.2015.SAS.at.HOU",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500440",
+"stem": "12.25.2015.LAC.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500441",
+"stem": "12.26.2015.TOR.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500442",
+"stem": "12.26.2015.NYK.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500443",
+"stem": "12.26.2015.MEM.at.CHA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500444",
+"stem": "12.26.2015.MIA.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500445",
+"stem": "12.26.2015.HOU.at.NOP",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500446",
+"stem": "12.26.2015.BOS.at.DET",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500447",
+"stem": "12.26.2015.WAS.at.BKN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500448",
+"stem": "12.26.2015.IND.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500449",
+"stem": "12.26.2015.CHI.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500450",
+"stem": "12.26.2015.DEN.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500451",
+"stem": "12.26.2015.PHI.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500452",
+"stem": "12.26.2015.LAC.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500453",
+"stem": "12.26.2015.CLE.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500454",
+"stem": "12.27.2015.NYK.at.BOS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500455",
+"stem": "12.27.2015.LAL.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500456",
+"stem": "12.27.2015.DEN.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500457",
+"stem": "12.27.2015.POR.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500458",
+"stem": "12.28.2015.LAL.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500459",
+"stem": "12.28.2015.ATL.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500460",
+"stem": "12.28.2015.NOP.at.ORL",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500461",
+"stem": "12.28.2015.LAC.at.WAS",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500462",
+"stem": "12.28.2015.BKN.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500463",
+"stem": "12.28.2015.TOR.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500464",
+"stem": "12.28.2015.MIL.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500465",
+"stem": "12.28.2015.MIN.at.SAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500466",
+"stem": "12.28.2015.CLE.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500467",
+"stem": "12.28.2015.PHI.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500468",
+"stem": "12.28.2015.SAC.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500469",
+"stem": "12.29.2015.DET.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500470",
+"stem": "12.29.2015.ATL.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500471",
+"stem": "12.29.2015.MIA.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500472",
+"stem": "12.29.2015.MIL.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500473",
+"stem": "12.29.2015.CLE.at.DEN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500474",
+"stem": "12.30.2015.LAC.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500475",
+"stem": "12.30.2015.BKN.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500476",
+"stem": "12.30.2015.LAL.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500477",
+"stem": "12.30.2015.WAS.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500478",
+"stem": "12.30.2015.IND.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500479",
+"stem": "12.30.2015.UTA.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500480",
+"stem": "12.30.2015.GSW.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500481",
+"stem": "12.30.2015.PHX.at.SAS",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500482",
+"stem": "12.30.2015.DEN.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500483",
+"stem": "12.30.2015.PHI.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500484",
+"stem": "12.31.2015.MIL.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500485",
+"stem": "12.31.2015.GSW.at.HOU",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500486",
+"stem": "12.31.2015.MIN.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500487",
+"stem": "12.31.2015.LAC.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500488",
+"stem": "12.31.2015.PHX.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500489",
+"stem": "12.31.2015.POR.at.UTA",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500490",
+"stem": "01.01.2016.ORL.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500491",
+"stem": "01.01.2016.DAL.at.MIA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500492",
+"stem": "01.01.2016.CHA.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500493",
+"stem": "01.01.2016.NYK.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500494",
+"stem": "01.01.2016.PHI.at.LAL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500495",
+"stem": "01.02.2016.BKN.at.BOS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500496",
+"stem": "01.02.2016.PHX.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500497",
+"stem": "01.02.2016.OKC.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500498",
+"stem": "01.02.2016.DET.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500499",
+"stem": "01.02.2016.ORL.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500500",
+"stem": "01.02.2016.MIL.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500501",
+"stem": "01.02.2016.NOP.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500502",
+"stem": "01.02.2016.HOU.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500503",
+"stem": "01.02.2016.MEM.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500504",
+"stem": "01.02.2016.DEN.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500505",
+"stem": "01.02.2016.PHI.at.LAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500506",
+"stem": "01.03.2016.ATL.at.NYK",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500507",
+"stem": "01.03.2016.CHI.at.TOR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500508",
+"stem": "01.03.2016.MIA.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500509",
+"stem": "01.03.2016.POR.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500510",
+"stem": "01.03.2016.PHX.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500511",
+"stem": "01.04.2016.TOR.at.CLE",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500512",
+"stem": "01.04.2016.MIN.at.PHI",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500513",
+"stem": "01.04.2016.BOS.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500514",
+"stem": "01.04.2016.ORL.at.DET",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500515",
+"stem": "01.04.2016.IND.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500516",
+"stem": "01.04.2016.SAS.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500517",
+"stem": "01.04.2016.SAC.at.OKC",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500518",
+"stem": "01.04.2016.HOU.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500519",
+"stem": "01.04.2016.MEM.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500520",
+"stem": "01.04.2016.CHA.at.GSW",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500521",
+"stem": "01.05.2016.NYK.at.ATL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500522",
+"stem": "01.05.2016.MIL.at.CHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500523",
+"stem": "01.05.2016.SAC.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500524",
+"stem": "01.05.2016.GSW.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500525",
+"stem": "01.06.2016.NYK.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500526",
+"stem": "01.06.2016.IND.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500527",
+"stem": "01.06.2016.CLE.at.WAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500528",
+"stem": "01.06.2016.DET.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500529",
+"stem": "01.06.2016.TOR.at.BKN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500530",
+"stem": "01.06.2016.DEN.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500531",
+"stem": "01.06.2016.DAL.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500532",
+"stem": "01.06.2016.UTA.at.SAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500533",
+"stem": "01.06.2016.CHA.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500534",
+"stem": "01.06.2016.MEM.at.OKC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500535",
+"stem": "01.06.2016.LAC.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500536",
+"stem": "01.07.2016.ATL.at.PHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500537",
+"stem": "01.07.2016.BOS.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500538",
+"stem": "01.07.2016.UTA.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500539",
+"stem": "01.07.2016.LAL.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500540",
+"stem": "01.08.2016.TOR.at.WAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500541",
+"stem": "01.08.2016.ORL.at.BKN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500542",
+"stem": "01.08.2016.DEN.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500543",
+"stem": "01.08.2016.CLE.at.MIN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500544",
+"stem": "01.08.2016.IND.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500545",
+"stem": "01.08.2016.DAL.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500546",
+"stem": "01.08.2016.NYK.at.SAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500547",
+"stem": "01.08.2016.MIA.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500548",
+"stem": "01.08.2016.GSW.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500549",
+"stem": "01.08.2016.OKC.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500550",
+"stem": "01.09.2016.CHA.at.LAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500551",
+"stem": "01.09.2016.CHI.at.ATL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500552",
+"stem": "01.09.2016.WAS.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500553",
+"stem": "01.09.2016.BKN.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500554",
+"stem": "01.09.2016.TOR.at.PHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500555",
+"stem": "01.09.2016.MIA.at.UTA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500556",
+"stem": "01.09.2016.GSW.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500557",
+"stem": "01.10.2016.DAL.at.MIN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500558",
+"stem": "01.10.2016.NOP.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500559",
+"stem": "01.10.2016.CLE.at.PHI",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500560",
+"stem": "01.10.2016.BOS.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500561",
+"stem": "01.10.2016.IND.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500562",
+"stem": "01.10.2016.MIL.at.NYK",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500563",
+"stem": "01.10.2016.CHA.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500564",
+"stem": "01.10.2016.OKC.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500565",
+"stem": "01.10.2016.UTA.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500566",
+"stem": "01.11.2016.SAS.at.BKN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500567",
+"stem": "01.11.2016.WAS.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500568",
+"stem": "01.11.2016.MIA.at.GSW",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500569",
+"stem": "01.12.2016.PHX.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500570",
+"stem": "01.12.2016.SAS.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500571",
+"stem": "01.12.2016.BOS.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500572",
+"stem": "01.12.2016.HOU.at.MEM",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500573",
+"stem": "01.12.2016.CHI.at.MIL",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500574",
+"stem": "01.12.2016.OKC.at.MIN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500575",
+"stem": "01.12.2016.CLE.at.DAL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500576",
+"stem": "01.12.2016.NOP.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500577",
+"stem": "01.13.2016.ATL.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500578",
+"stem": "01.13.2016.MIL.at.WAS",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500579",
+"stem": "01.13.2016.NYK.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500580",
+"stem": "01.13.2016.IND.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500581",
+"stem": "01.13.2016.MIN.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500582",
+"stem": "01.13.2016.DAL.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500583",
+"stem": "01.13.2016.GSW.at.DEN",
+"lead_status": "HOLDOUT_FAIL"
+},
+{
+"game_id": "0021500584",
+"stem": "01.13.2016.UTA.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500585",
+"stem": "01.13.2016.NOP.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500586",
+"stem": "01.13.2016.MIA.at.LAC",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500591",
+"stem": "01.14.2016.SAC.at.UTA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500592",
+"stem": "01.14.2016.LAL.at.GSW",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500593",
+"stem": "01.15.2016.WAS.at.IND",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500594",
+"stem": "01.15.2016.MIN.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500595",
+"stem": "01.15.2016.PHX.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500596",
+"stem": "01.15.2016.POR.at.BKN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500597",
+"stem": "01.15.2016.DAL.at.CHI",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500598",
+"stem": "01.15.2016.CHA.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500599",
+"stem": "01.15.2016.ATL.at.MIL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500600",
+"stem": "01.15.2016.MIA.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500601",
+"stem": "01.15.2016.CLE.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500615",
+"stem": "01.18.2016.PHI.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500616",
+"stem": "01.18.2016.UTA.at.CHA",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500617",
+"stem": "01.18.2016.POR.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500618",
+"stem": "01.18.2016.NOP.at.MEM",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500619",
+"stem": "01.18.2016.CHI.at.DET",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500620",
+"stem": "01.18.2016.ORL.at.ATL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500621",
+"stem": "01.18.2016.BKN.at.TOR",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500622",
+"stem": "01.18.2016.GSW.at.CLE",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500623",
+"stem": "01.18.2016.BOS.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500624",
+"stem": "01.18.2016.HOU.at.LAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500625",
+"stem": "01.19.2016.MIL.at.MIA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500626",
+"stem": "01.19.2016.MIN.at.NOP",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500627",
+"stem": "01.19.2016.OKC.at.DEN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500628",
+"stem": "01.19.2016.IND.at.PHX",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500629",
+"stem": "01.20.2016.PHI.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500630",
+"stem": "01.20.2016.MIA.at.WAS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500631",
+"stem": "01.20.2016.CLE.at.BKN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500632",
+"stem": "01.20.2016.UTA.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500633",
+"stem": "01.20.2016.BOS.at.TOR",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500634",
+"stem": "01.20.2016.GSW.at.CHI",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500635",
+"stem": "01.20.2016.DET.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500636",
+"stem": "01.20.2016.CHA.at.OKC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500637",
+"stem": "01.20.2016.MIN.at.DAL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500638",
+"stem": "01.20.2016.SAC.at.LAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500639",
+"stem": "01.20.2016.ATL.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500641",
+"stem": "01.21.2016.DET.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500642",
+"stem": "01.21.2016.MEM.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500645",
+"stem": "01.22.2016.CHA.at.ORL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500646",
+"stem": "01.22.2016.CHI.at.BOS",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500647",
+"stem": "01.22.2016.UTA.at.BKN",
+"lead_status": "DRIFTING_LEAD"
+},
+{
+"game_id": "0021500648",
+"stem": "01.22.2016.LAC.at.NYK",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500649",
+"stem": "01.22.2016.MIA.at.TOR",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500650",
+"stem": "01.22.2016.MIL.at.HOU",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500651",
+"stem": "01.22.2016.OKC.at.DAL",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500652",
+"stem": "01.22.2016.IND.at.GSW",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500653",
+"stem": "01.22.2016.SAS.at.LAL",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500655",
+"stem": "01.23.2016.NYK.at.CHA",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500657",
+"stem": "01.23.2016.MIL.at.NOP",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500658",
+"stem": "01.23.2016.MEM.at.MIN",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500659",
+"stem": "01.23.2016.CHI.at.CLE",
+"lead_status": "NO_TRACKING_MOMENTS"
+},
+{
+"game_id": "0021500660",
+"stem": "01.23.2016.ATL.at.PHX",
+"lead_status": "AMBIGUOUS_LEAD"
+},
+{
+"game_id": "0021500661",
+"stem": "01.23.2016.DET.at.DEN",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500662",
+"stem": "01.23.2016.LAL.at.POR",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+},
+{
+"game_id": "0021500663",
+"stem": "01.23.2016.IND.at.SAC",
+"lead_status": "CLOCK_CALIBRATION_VALIDATED"
+}
+]
+}

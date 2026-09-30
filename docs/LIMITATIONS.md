@@ -1,0 +1,9 @@
+# Limitations
+
+1. **One historical NBA season.** All results come from the 2015-16 regular season. We do not claim that numerical recovery times, or the associations reported, are unchanged in the current NBA.
+2. **Public historical SportVU corpus.** The tracking data are a public mirror of the 2015-16 SportVU feed (631 usable games), joined to stats.nba.com play-by-play with a constant +4.0 s timing correction; residual alignment error of roughly a second is possible for individual events.
+3. **`FIVE_BACK` is half-court numerical recovery only.** It counts defenders inside their own half; it says nothing about matchups, rim protection, defensive organisation or effort. A defense can be "five back" and still disorganised.
+4. **Observational associations, not causal effects.** Linear probability models adjust for elapsed possession time, start type, period and score margin; the coefficient on `FIVE_BACK` is an adjusted association. The nearest-defender-distance model is a diagnostic, not a mediation analysis.
+5. **Conditioning on a first field-goal attempt.** The analysis unit is the first FGA of an eligible possession (68.3 % of the 48,083 eligible starts); possessions ending in turnovers, fouls or dead balls before a shot are excluded. The selection analysis finds only a minor differential inclusion by defensive state (+2.3 percentage points at 6 s), and no reweighting is applied.
+6. **Residual elapsed-time gradient.** 56 % of the model-estimated 2 s → 10 s rim-access gradient remains after accounting for five-back status; this residual is not explained here. Rim protection or defensive organisation are possible hypotheses for future work, not established findings.
+7. **Definitions are fixed, not optimal.** Rim attempt = shot within 4 ft; `FIVE_BACK` read 1.0 s before the shot; midcourt at 47 ft; one-second common-support bins. These were fixed before the results were computed and were not tuned.

@@ -1,0 +1,13 @@
+{
+  "status": "FIVE_BACK_FINAL_PASS",
+  "criteria": {
+    "1 construct valid, reproduction gate PASS": true,
+    "2 GOOD_COMMON_SUPPORT": true,
+    "3 stratified FIVE_BACK <= -5 pp, CI excl. 0": true,
+    "4 FC2 FIVE_BACK < 0 with CI excl. 0 and CV not worse": true,
+    "5 selection MINOR or PRESENT_BUT_INTERPRETABLE": true,
+    "6 no hidden coding issue": true
+  },
+  "support": "GOOD_COMMON_SUPPORT",
+  "selection": "SELECTION_MINOR"
+}
